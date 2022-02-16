@@ -6,8 +6,13 @@ description: This resource provides information about graphic representations of
   and cholesterol monohydrate, principal mixed lipid systems in living organisms,
   dietary lipids and inraluminal physical state, behavior of lecithin in water, and
   mambrane tranport mechanisms.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/6f60bff1571d5eeace97fa0f17e7ea5a_04_carey.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/6f60bff1571d5eeace97fa0f17e7ea5a_04_carey.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 04_carey.pdf
 uid: 6f60bff1-571d-5eea-ce97-fa0f17e7ea5a

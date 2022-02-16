@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/92646cd4c42b114013489c3db682c35d_13_lencer.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/92646cd4c42b114013489c3db682c35d_13_lencer.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 13_lencer.pdf
 uid: 92646cd4-c42b-1140-1348-9c3db682c35d

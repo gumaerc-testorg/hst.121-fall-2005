@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Section 7: Intestinal Pathophysiology - Parts I and II'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/a3493a92d4107a9733770e338fd606c3_section7.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/a3493a92d4107a9733770e338fd606c3_section7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: section7.pdf
 uid: a3493a92-d410-7a97-3377-0e338fd606c3

@@ -4,8 +4,13 @@ description: This resource provides information about the traditional liver lobu
   is radially arranged around a central hepatic venule with portal traids at the periphery,
   and conjugated secreted into bile are not reabsorbed unless actively transported
   oo degraded to lipophilic products.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/0a0a918da4dd0b20694020276f5f79ff_15_chung.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/0a0a918da4dd0b20694020276f5f79ff_15_chung.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 15_chung.pdf
 uid: 0a0a918d-a4dd-0b20-6940-20276f5f79ff

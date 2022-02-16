@@ -8,8 +8,13 @@ description: 'This resource provides information about absorption efficiency of 
   tract, dispersed states of major dietry lipids in water, dietary lipids and instrumental
   physical state, fat lipids and instraluminal physical state, fat disestion: the
   lipases, and luminal triglyceride lipases.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/10e96e0984aa677b9f3037d1ca0c5567_03_carey.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/10e96e0984aa677b9f3037d1ca0c5567_03_carey.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 03_carey.pdf
 uid: 10e96e09-84aa-677b-9f30-37d1ca0c5567

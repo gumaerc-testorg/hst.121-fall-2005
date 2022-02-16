@@ -7,8 +7,13 @@ description: 'This resource provides information about solute composition of hum
   salts, lipid particles in human biles, bile acid systhesis, biochemical origin of
   primary bile salts, enterohepatic circulation of bile salts, absorption of bile
   salts by ileocytes, and conjugated bile salt catabolism by colonic flora.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/b05bfb3d47455fb0e2d4f0fca48fc594_02_carey.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/b05bfb3d47455fb0e2d4f0fca48fc594_02_carey.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 02_carey.pdf
 uid: b05bfb3d-4745-5fb0-e2d4-f0fca48fc594

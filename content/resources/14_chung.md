@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource provides information about metabolism of alcohol, hepatic
   metabolism of alcohol, alcohol oxidation, hepatotoxilogy of alcohol: mechanisms,
   clinical spectrum of alcoholic liver desease, and alcoholic fatty liver.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/e46f96623366ae59a117c8cf1a9560b3_14_chung.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/e46f96623366ae59a117c8cf1a9560b3_14_chung.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14_chung.pdf
 uid: e46f9662-3366-ae59-a117-c8cf1a9560b3

@@ -5,8 +5,13 @@ description: 'This resource provides information about gastroenterology, basic s
   in the gut, the neurocrine effectors, the hormonal control system, salivary secretion,
   gastric secretions , biliary secretion, pancreatic secretions, and carbohydrate
   digestion.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/eeef9617dd3f027e87b2c562327fd0f2_07_glickman.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/eeef9617dd3f027e87b2c562327fd0f2_07_glickman.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 07_glickman.pdf
 uid: eeef9617-dd3f-027e-87b2-c562327fd0f2

@@ -13,8 +13,13 @@ description: 'This resource provides information about mucosal barrier function,
   intrinsic barrier function of epithelium, pathways for antigen-uptake from the lumen,
   epithelial transport of macromolecules, antigen presentation by absorptive epithelial
   cell, Peyer?s patch development, and concept of the common MALT.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/c5339a0af7c7400f75d2d049d63ab27a_01_blumberg.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/c5339a0af7c7400f75d2d049d63ab27a_01_blumberg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 01_blumberg.pdf
 uid: c5339a0a-f7c7-400f-75d2-d049d63ab27a

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/41eb82f84530d37f37ffc865b30a20fb_16_strate.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/41eb82f84530d37f37ffc865b30a20fb_16_strate.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 16_strate.pdf
 uid: 41eb82f8-4530-d37f-37ff-c865b30a20fb

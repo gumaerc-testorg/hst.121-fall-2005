@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lab manual.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/359cac0f0fd21288e7e543b8fead2872_assign_3.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/359cac0f0fd21288e7e543b8fead2872_assign_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: assign_3.pdf
 uid: 359cac0f-0fd2-1288-e7e5-43b8fead2872

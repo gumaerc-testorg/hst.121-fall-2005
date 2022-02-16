@@ -4,8 +4,13 @@ description: This resource provides information about historical perspectives on
   impact of endoscopy on gastroenterology, the endoscope, technique, wses of endoscopy.
   It also cover information on obstructive jaundice, recurrent pancreatitis, and unexplained
   pancreabiliary pain.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-121-gastroenterology-fall-2005/45a39e9acab01813ae703ceab2dd3bd1_section21.pdf
+file: /media/courses/hst-121-gastroenterology-fall-2005/45a39e9acab01813ae703ceab2dd3bd1_section21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: section21.pdf
 uid: 45a39e9a-cab0-1813-ae70-3ceab2dd3bd1
