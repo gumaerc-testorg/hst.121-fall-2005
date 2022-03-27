@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ee402bfb-1c92-74d0-fc86-2bf548b1fca5
 resourcetype: Document
 title: midtem_exm_reviw.pdf
 uid: 78a3ea65-4784-c5bf-e980-6d3488c53b06

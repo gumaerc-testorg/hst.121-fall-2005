@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ee402bfb-1c92-74d0-fc86-2bf548b1fca5
 resourcetype: Document
 title: final_exam_reviw.pdf
 uid: af86edb1-f3ad-9877-3982-7fe98d16206c

@@ -20,6 +20,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0
 resourcetype: Document
 title: 01_blumberg.pdf
 uid: c5339a0a-f7c7-400f-75d2-d049d63ab27a
