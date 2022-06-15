@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains five lab assignments.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -22,12 +23,12 @@ All of the laboratory activities require active participation on your part. Each
 
 Following the review of assignments, the class will be divided into two groups in the adjacent skills areas. Here you will have an opportunity to examine and discuss collections of surgical resections and autopsy specimens related to laboratory topics. Examination of specimens is valuable both for recognizing the extraordinary severity of disease which can develop in any living person, and for developing a clear idea of what you may be up against when conducting non-invasive diagnostic procedures (including history and physical examination). Keep in mind that the goal of these sessions is not to come up with a precise clinical or pathological diagnosis for each specimen, but to develop an appreciation for the spectrum, severity, and complications of gastrointestinal diseases in general. No prior preparation is required for this part of the labs.
 
-Lab Assignment 1 ([PDF]({{< baseurl >}}/resources/assign_1))
+Lab Assignment 1 ({{% resource_link 910b9411-5f7f-6c88-0bc6-67b32e7db40b "PDF" %}})
 
-Lab Assignment 2 ([PDF]({{< baseurl >}}/resources/assign_2))
+Lab Assignment 2 ({{% resource_link b31e2219-feb4-7c90-0e1d-27508e8419d1 "PDF" %}})
 
-Lab Assignment 3 ([PDF]({{< baseurl >}}/resources/assign_3))
+Lab Assignment 3 ({{% resource_link 359cac0f-0fd2-1288-e7e5-43b8fead2872 "PDF" %}})
 
-Lab Assignment 4 ([PDF]({{< baseurl >}}/resources/assign_4))
+Lab Assignment 4 ({{% resource_link 204240b9-75aa-751c-5629-d746a89bbf48 "PDF" %}})
 
-Lab Assignment 5 ([PDF]({{< baseurl >}}/resources/assign_5))
+Lab Assignment 5 ({{% resource_link 336b9a7e-7d4e-00fe-108b-ec85c5a425e5 "PDF" %}})

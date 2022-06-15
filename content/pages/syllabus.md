@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains course overview, course requirements, lab assignments,
+  and student seminars for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

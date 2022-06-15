@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains list of readings associated with the course material.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: 6b72e304-626a-3c77-bae4-f16e749dfb3b
 Recommended Reading Material
 ----------------------------
 
-Although the [lecture notes]({{< baseurl >}}/pages/lecture-notes) represent the only required reading material for this course, time constraints prohibit a comprehensive coverage of all essential topics in gastroenterology. You are therefore highly encouraged to supplement your reading during the course by the following two resources:
+Although the {{% resource_link 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0 "lecture notes" %}} represent the only required reading material for this course, time constraints prohibit a comprehensive coverage of all essential topics in gastroenterology. You are therefore highly encouraged to supplement your reading during the course by the following two resources:
 
 Cotran, Ramzi S., Vinay Kumar, Tucker Collins, and Stanley L. Robbins. "The Gastrointestinal Tract," "Liver and the Biliary Tract," and "The Pancreas." Chapters 18, 19, and 20 in _Robbins Pathological Basis of Diseases_. 6th ed. Philadelphia, PA: W.B. Saunders Co., 1999. ISBN: 9780721673356 .
 

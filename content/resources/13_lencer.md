@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-121-gastroenterology-fall-2005/92646cd4c42b114013489c3db682c35d_13_lencer.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/92646cd4c42b114013489c3db682c35d_13_lencer.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
