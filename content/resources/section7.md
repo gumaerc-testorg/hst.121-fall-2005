@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/a3493a92d4107a9733770e338fd606
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: section7.pdf
 uid: a3493a92-d410-7a97-3377-0e338fd606c3
 ---
 Section 7: Intestinal Pathophysiology - Parts I and II
-

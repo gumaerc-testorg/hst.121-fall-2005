@@ -4,6 +4,7 @@ description: Review materials for the Midterm Exam.
 file: /courses/hst-121-gastroenterology-fall-2005/78a3ea654784c5bfe9806d3488c53b06_midtem_exm_reviw.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: midtem_exm_reviw.pdf
 uid: 78a3ea65-4784-c5bf-e980-6d3488c53b06
 ---
 Review materials for the Midterm Exam.
-

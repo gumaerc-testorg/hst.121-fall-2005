@@ -7,6 +7,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/92441d435aaf8b52de7640280b60ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: section14.pdf
 uid: 92441d43-5aaf-8b52-de76-40280b60ad9f
 ---
 This resource provides information about biliary tract, pancreas, cystic fibrosis, pancreatitis, cysts and pseudocysts, inflammation, cholelithiasis, neoplasms, and non-neoplastic occlusive disease of the extrahepatic biliary tree.
-

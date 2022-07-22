@@ -8,6 +8,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/0a0a918da4dd0b20694020276f5f79
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 15_chung.pdf
 uid: 0a0a918d-a4dd-0b20-6940-20276f5f79ff
 ---
 This resource provides information about the traditional liver lobule is radially arranged around a central hepatic venule with portal traids at the periphery, and conjugated secreted into bile are not reabsorbed unless actively transported oo degraded to lipophilic products.
-

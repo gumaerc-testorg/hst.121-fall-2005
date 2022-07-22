@@ -8,6 +8,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/adc5891b912fd0242999bf47dbf3de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 08_glickman.pdf
 uid: adc5891b-912f-d024-2999-bf47dbf3dea3
 ---
 This resource provides information about normal stomach, structural units of the normal gastric mucosa, non-neoplastic diseases of the stomach, patterns of injury, working classification of gastritis, gastritis-etiologic classification, and intestinal metaplasia.
-

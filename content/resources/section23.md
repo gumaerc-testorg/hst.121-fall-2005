@@ -6,6 +6,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/46ac83ad24a39095d07fd4eab8cc61
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: section23.pdf
 uid: 46ac83ad-24a3-9095-d07f-d4eab8cc6187
 ---
 This resource provides information about anatomical considerations, mechanism of portal hypertension, consequences of portal hypertension, and hepatic encephalopathy.
-

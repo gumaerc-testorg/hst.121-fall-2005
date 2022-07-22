@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/86df6014d928332b541109931cbc75
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment5.pdf
 uid: 86df6014-d928-332b-5411-09931cbc75a4
 ---
 [Laboratory] Assignment #5
-

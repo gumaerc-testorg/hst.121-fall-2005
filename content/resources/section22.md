@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/ff621f3cdb56ed804783575eaf3179
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: section22.pdf
 uid: ff621f3c-db56-ed80-4783-575eaf3179ff
 ---
 Section 22: Pathology of the Liver
-

@@ -7,6 +7,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/9d663a918b33c1e1291b2d6614f334
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: section5.pdf
 uid: 9d663a91-8b33-c1e1-291b-2d6614f33407
 ---
 This resource provides information about anatomy, histology, physiology, congenital disorders, motor and mechanical disorders, vascular disorders, and inflammatory disorders.
-

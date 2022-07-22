@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/11c6807bf3b0dd31e955eedd59c6c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: section18.pdf
 uid: 11c6807b-f3b0-dd31-e955-eedd59c6c2f1
 ---
 Section 18: Immunology of the Liver
-

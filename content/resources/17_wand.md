@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/2a59cc98468bf1c12c4132fc0349ac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

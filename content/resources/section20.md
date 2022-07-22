@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/02fa4fd486edf8df70b6a4adbbf1c1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: section20.pdf
 uid: 02fa4fd4-86ed-f8df-70b6-a4adbbf1c1b5
 ---
 Section 20: Jaundice and Disorders of Bilirubin Metabolism
-

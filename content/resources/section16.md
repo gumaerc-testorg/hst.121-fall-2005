@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/713021a4c9c6b1e11ce33c7d6a1de5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: section16.pdf
 uid: 713021a4-c9c6-b1e1-1ce3-3c7d6a1de55c
 ---
 Section 16: Imaging of the GI Tract
-

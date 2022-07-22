@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/ec055c0f258a5441f782a248a67344
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: section2.pdf
 uid: ec055c0f-258a-5441-f782-a248a67344cf
 ---
 Section 2: Overview of Physiology
-

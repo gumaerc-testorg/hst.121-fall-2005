@@ -9,10 +9,10 @@ image_metadata:
   image-alt: Figure of cell showing transport of various compounds through the lipid
     bilayer.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-121f05-th.jpg
 uid: 5d0877a2-9ffe-10e9-3aa1-3a0095159978
 ---
 New image Upload
-

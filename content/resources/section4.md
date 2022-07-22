@@ -7,6 +7,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/e3a5423fdb2a79412cff9d44fb3e5a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: section4.pdf
 uid: e3a5423f-db2a-7941-2cff-9d44fb3e5a0c
 ---
 This resource provides information about mucosal barrier function, inductive and effector tissues and cells of the mucosal immune system, and functional characteristics of mucosal cells and tissues.
-

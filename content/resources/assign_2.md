@@ -5,6 +5,7 @@ file: /courses/hst-121-gastroenterology-fall-2005/b31e2219feb47c900e1d27508e8419
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assign_2.pdf
 uid: b31e2219-feb4-7c90-0e1d-27508e8419d1
 ---
 Lab manual.
-
