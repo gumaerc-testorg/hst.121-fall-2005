@@ -8,6 +8,7 @@ description: 'This resource provides information about solute composition of hum
   primary bile salts, enterohepatic circulation of bile salts, absorption of bile
   salts by ileocytes, and conjugated bile salt catabolism by colonic flora.'
 file: /courses/hst-121-gastroenterology-fall-2005/b05bfb3d47455fb0e2d4f0fca48fc594_02_carey.pdf
+file_size: 4316823
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

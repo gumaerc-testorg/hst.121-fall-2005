@@ -4,6 +4,7 @@ description: This resource provides information about mucosal barrier function, 
   and effector tissues and cells of the mucosal immune system, and functional characteristics
   of mucosal cells and tissues.
 file: /courses/hst-121-gastroenterology-fall-2005/e3a5423fdb2a79412cff9d44fb3e5a0c_section4.pdf
+file_size: 3882068
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

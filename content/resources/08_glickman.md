@@ -5,6 +5,7 @@ description: This resource provides information about normal stomach, structural
   injury, working classification of gastritis, gastritis-etiologic classification,
   and intestinal metaplasia.
 file: /courses/hst-121-gastroenterology-fall-2005/adc5891b912fd0242999bf47dbf3dea3_08_glickman.pdf
+file_size: 2439341
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about overview of embryology of the
   digestive tract.
 file: /courses/hst-121-gastroenterology-fall-2005/809339bf021c376556e28e844cbf73d0_section1.pdf
+file_size: 1256850
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

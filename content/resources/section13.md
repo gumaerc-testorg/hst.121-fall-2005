@@ -4,6 +4,7 @@ description: This resource provides information about etiology, putative mecheha
   of intrecellular injury, local effects, systemic effects, clinical features, radiology,
   and treatment.
 file: /courses/hst-121-gastroenterology-fall-2005/85abe4d51d54f015396f9af45f8a4859_section13.pdf
+file_size: 566710
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

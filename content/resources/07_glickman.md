@@ -6,6 +6,7 @@ description: 'This resource provides information about gastroenterology, basic s
   gastric secretions , biliary secretion, pancreatic secretions, and carbohydrate
   digestion.'
 file: /courses/hst-121-gastroenterology-fall-2005/eeef9617dd3f027e87b2c562327fd0f2_07_glickman.pdf
+file_size: 292056
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

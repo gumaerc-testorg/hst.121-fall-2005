@@ -14,6 +14,7 @@ description: 'This resource provides information about mucosal barrier function,
   epithelial transport of macromolecules, antigen presentation by absorptive epithelial
   cell, Peyer?s patch development, and concept of the common MALT.'
 file: /courses/hst-121-gastroenterology-fall-2005/c5339a0af7c7400f75d2d049d63ab27a_01_blumberg.pdf
+file_size: 1070649
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
