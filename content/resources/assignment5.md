@@ -2,6 +2,7 @@
 content_type: resource
 description: '[Laboratory] Assignment #5'
 file: /courses/hst-121-gastroenterology-fall-2005/86df6014d928332b541109931cbc75a4_assignment5.pdf
+file_size: 155358
 file_type: application/pdf
 learning_resource_types:
 - Assignments

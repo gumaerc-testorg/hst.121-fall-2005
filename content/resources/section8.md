@@ -4,6 +4,7 @@ description: This resource provides information about lipid digestion and absorp
   24 hour input-output balance, physical state of dietary lipids in water, lipases
   involved in fat digestion, and topology of lipases.
 file: /courses/hst-121-gastroenterology-fall-2005/f4d3143bccf8882a13d44b72b17275e0_section8.pdf
+file_size: 1061069
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

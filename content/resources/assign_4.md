@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab manual.
 file: /courses/hst-121-gastroenterology-fall-2005/204240b975aa751c5629d746a89bbf48_assign_4.pdf
+file_size: 166681
 file_type: application/pdf
 learning_resource_types:
 - Labs

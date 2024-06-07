@@ -5,6 +5,7 @@ description: This resource provides information about historical perspectives on
   It also cover information on obstructive jaundice, recurrent pancreatitis, and unexplained
   pancreabiliary pain.
 file: /courses/hst-121-gastroenterology-fall-2005/45a39e9acab01813ae703ceab2dd3bd1_section21.pdf
+file_size: 541931
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

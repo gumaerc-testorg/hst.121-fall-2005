@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Sector 15: Biliary Secretion, Cholestasis, and Gallstone Formation'
 file: /courses/hst-121-gastroenterology-fall-2005/2c7c18662ab592937809606f6bf1880d_section15.pdf
+file_size: 816147
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

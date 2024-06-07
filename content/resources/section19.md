@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Section 19: Alcohol and Drug-Induced Liver Disease'
 file: /courses/hst-121-gastroenterology-fall-2005/1e6660b55b315b4b88672fba39222587_section19.pdf
+file_size: 1488586
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
