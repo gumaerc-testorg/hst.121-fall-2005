@@ -2,6 +2,7 @@
 content_type: resource
 description: Review materials for the Midterm Exam.
 file: /courses/hst-121-gastroenterology-fall-2005/78a3ea654784c5bfe9806d3488c53b06_midtem_exm_reviw.pdf
+file_size: 386864
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

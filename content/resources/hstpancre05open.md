@@ -4,6 +4,7 @@ description: This resource provides information about exocrine pancreas-anatomy,
   of the exocrine pancreas, acute pancreatitis, chronic pancreatitis, and chronic
   pancreatitis-pathology.
 file: /courses/hst-121-gastroenterology-fall-2005/8815785fa48ccbd63a9395252f87ec31_hstpancre05open.pdf
+file_size: 3042053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

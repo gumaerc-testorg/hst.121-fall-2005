@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Section 17: Physiology and Biochemistry of the Liver'
 file: /courses/hst-121-gastroenterology-fall-2005/46786cc305149c4326ece8cc3deba2a8_section17.pdf
+file_size: 2759030
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

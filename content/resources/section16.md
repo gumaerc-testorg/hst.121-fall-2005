@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Section 16: Imaging of the GI Tract'
 file: /courses/hst-121-gastroenterology-fall-2005/713021a4c9c6b1e11ce33c7d6a1de55c_section16.pdf
+file_size: 387836
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

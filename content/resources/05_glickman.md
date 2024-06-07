@@ -4,6 +4,7 @@ description: This resource provides informatin about the primitive gut, folding 
   the embryonic disc, formation of human gastrointestinal tract (A), the foregut,
   and partitioning of the foregut by the tracheoesophageal septum.
 file: /courses/hst-121-gastroenterology-fall-2005/6da29c62d4fc20222d2df1f3c6519008_05_glickman.pdf
+file_size: 827940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

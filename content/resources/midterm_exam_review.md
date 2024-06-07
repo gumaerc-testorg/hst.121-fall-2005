@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/hst-121-gastroenterology-fall-2005/506f592a5a14e8127d3686937edea602_midterm_exam_review.pdf
+file_size: 250124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

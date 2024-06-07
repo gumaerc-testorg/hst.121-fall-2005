@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/hst-121-gastroenterology-fall-2005/41c8a8189515385c26061f6d265fbb8a_12_glickman.pdf
+file_size: 5909038
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
