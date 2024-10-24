@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about normal esophagus, esophageal
   diverticula, esophagitis-classification, reflux esophagitis-gross, active esophagitis-histology,
   allergic esophagitis, herpes simplex virus, candida esophagitis, and achalasia.
-file: /courses/hst-121-gastroenterology-fall-2005/bd6ea66bbe01b707628a7eb60127ddae_06_glickman.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/bd6ea66bbe01b707628a7eb60127ddae_06_glickman.pdf
 file_size: 1355707
 file_type: application/pdf
 learning_resource_types:
