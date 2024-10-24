@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about neoplastic diseases of the stomach,
   epithelial tumors, neuroendocrine tumors, lymphomas, and gastrointestinal stromal
   tumors.
-file: /courses/hst-121-gastroenterology-fall-2005/cba0faaf95e6c913c4c9094523c79039_hstneopla05opens.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/cba0faaf95e6c913c4c9094523c79039_hstneopla05opens.pdf
 file_size: 4168407
 file_type: application/pdf
 learning_resource_types:
