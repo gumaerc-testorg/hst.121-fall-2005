@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab manual.
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/359cac0f0fd21288e7e543b8fead2872_assign_3.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/359cac0f0fd21288e7e543b8fead2872_assign_3.pdf
 file_size: 162973
 file_type: application/pdf
 learning_resource_types:

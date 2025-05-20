@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Section 18: Immunology of the Liver'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/11c6807bf3b0dd31e955eedd59c6c2f1_section18.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/11c6807bf3b0dd31e955eedd59c6c2f1_section18.pdf
 file_size: 1239033
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Section 10: Gastrointestinal Neoplasms'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/da479c3151c9abd8d01fe0a00563998c_section10.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/da479c3151c9abd8d01fe0a00563998c_section10.pdf
 file_size: 1855791
 file_type: application/pdf
 learning_resource_types:

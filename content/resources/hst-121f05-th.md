@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/5d0877a29ffe10e93aa13a0095159978_hst-121f05-th.jpg
+file: /courses/hst-121-gastroenterology-fall-2005/5d0877a29ffe10e93aa13a0095159978_hst-121f05-th.jpg
 file_size: 14364
 file_type: image/jpeg
 image_metadata:
