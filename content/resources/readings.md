@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recommended Reading Materials
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/b6fa025ebb5f78ab580a286e345afa86_readings.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/b6fa025ebb5f78ab580a286e345afa86_readings.pdf
 file_size: 308910
 file_type: application/pdf
 learning_resource_types:

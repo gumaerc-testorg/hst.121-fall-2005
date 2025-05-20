@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/92646cd4c42b114013489c3db682c35d_13_lencer.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/92646cd4c42b114013489c3db682c35d_13_lencer.pdf
 file_size: 4060563
 file_type: application/pdf
 learning_resource_types:

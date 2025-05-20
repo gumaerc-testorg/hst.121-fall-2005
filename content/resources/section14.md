@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about biliary tract, pancreas, cystic
   fibrosis, pancreatitis, cysts and pseudocysts, inflammation, cholelithiasis, neoplasms,
   and non-neoplastic occlusive disease of the extrahepatic biliary tree.
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/92441d435aaf8b52de7640280b60ad9f_section14.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/92441d435aaf8b52de7640280b60ad9f_section14.pdf
 file_size: 1305814
 file_type: application/pdf
 learning_resource_types:

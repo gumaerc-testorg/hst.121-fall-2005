@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Section 3: Gastroduodenal Pathophysiology and Disorders'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/4b44fd949b4b81167f572249d4cff6a6_section3.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/4b44fd949b4b81167f572249d4cff6a6_section3.pdf
 file_size: 1171574
 file_type: application/pdf
 learning_resource_types:
