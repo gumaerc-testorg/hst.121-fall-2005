@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/2a59cc98468bf1c12c4132fc0349ac62_17_wand.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/2a59cc98468bf1c12c4132fc0349ac62_17_wand.pdf
 file_size: 4579474
 file_type: application/pdf
 learning_resource_types:

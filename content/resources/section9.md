@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Section 9: Pathology of the Intestines'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/c63421090e60d72d5097a8cd95391f33_section9.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/c63421090e60d72d5097a8cd95391f33_section9.pdf
 file_size: 2266220
 file_type: application/pdf
 learning_resource_types:

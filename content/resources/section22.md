@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Section 22: Pathology of the Liver'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/ff621f3cdb56ed804783575eaf3179ff_section22.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/ff621f3cdb56ed804783575eaf3179ff_section22.pdf
 file_size: 2811235
 file_type: application/pdf
 learning_resource_types:

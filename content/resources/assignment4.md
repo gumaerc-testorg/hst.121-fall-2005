@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Laboratory Assignment #4'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/75437d870a94d9f8170783d63a66a607_assignment4.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/75437d870a94d9f8170783d63a66a607_assignment4.pdf
 file_size: 162963
 file_type: application/pdf
 learning_resource_types:

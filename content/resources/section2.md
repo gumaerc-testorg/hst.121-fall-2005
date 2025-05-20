@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Section 2: Overview of Physiology'
-file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/ec055c0f258a5441f782a248a67344cf_section2.pdf
+file: /courses/hst-121-gastroenterology-fall-2005/ec055c0f258a5441f782a248a67344cf_section2.pdf
 file_size: 843361
 file_type: application/pdf
 learning_resource_types:
