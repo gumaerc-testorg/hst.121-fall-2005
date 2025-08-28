@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-121-gastroenterology-fall-2005/61083c1a531a2daa0bf54967bf2ec049_10_glickman.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/61083c1a531a2daa0bf54967bf2ec049_10_glickman.pdf
 file_size: 6561663
 file_type: application/pdf
 learning_resource_types:
