@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-121-gastroenterology-fall-2005/41eb82f84530d37f37ffc865b30a20fb_16_strate.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/41eb82f84530d37f37ffc865b30a20fb_16_strate.pdf
 file_size: 4540474
 file_type: application/pdf
 learning_resource_types:

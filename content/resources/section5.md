@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about anatomy, histology, physiology,
   congenital disorders, motor and mechanical disorders, vascular disorders, and inflammatory
   disorders.
-file: /courses/hst-121-gastroenterology-fall-2005/9d663a918b33c1e1291b2d6614f33407_section5.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/9d663a918b33c1e1291b2d6614f33407_section5.pdf
 file_size: 3384162
 file_type: application/pdf
 learning_resource_types:

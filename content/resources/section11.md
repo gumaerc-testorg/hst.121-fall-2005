@@ -4,7 +4,7 @@ description: This resource provides information about lipids, polar lipids, clas
   of polar lipidson interactions with H2O, self-aggregated states, principle mixed
   lipid systems in living organisms, the 3 P rule, and how lipids traverse biologic
   membranes.
-file: /courses/hst-121-gastroenterology-fall-2005/1c44a0e0d21b2202ced7593236b15327_section11.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/1c44a0e0d21b2202ced7593236b15327_section11.pdf
 file_size: 1666139
 file_type: application/pdf
 learning_resource_types:
