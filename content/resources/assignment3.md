@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Laboratory Assignment #3'
-file: /courses/hst-121-gastroenterology-fall-2005/bc142ceea44fdafc4236ae40f33758c6_assignment3.pdf
+file: /ol-ocw-studio-app/courses/hst-121-gastroenterology-fall-2005/bc142ceea44fdafc4236ae40f33758c6_assignment3.pdf
 file_size: 161329
 file_type: application/pdf
 learning_resource_types:
